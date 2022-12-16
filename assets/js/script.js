@@ -218,6 +218,7 @@ var language = {
       "It was a beautiful experience to observe and listen to Boris ' s translating and intepreting from English to Czech. He correctly captured not only the content but also the gist of the lecture. Thank you, Boris.",
     quote11:
       "Boris was a very sensitive and connected intepreter at our class of craniosacral therapy. Not only is his interpreting at a high professional level, he also brings joy and a sense of ease to the overal atmosphere. He was always ready to help. Thanks a lot.",
+    quote12: "Thank you, Boris, for a professional interpreting with a huge added value :). You interpret through your heart. With a great respect you tune in to a person, with humbleness you step back and still you are everywhere. Beautiful :). Thank you. Klaudia", 
     contactHead: "Contact",
     formName: "Name",
     formText: "Message",
@@ -274,6 +275,7 @@ if (window.location.hash) {
     quote9.textContent = language.eng.quote9;
     quote10.textContent = language.eng.quote10;
     quote11.textContent = language.eng.quote11;
+    quote12.textContent = language.eng.quote12;
     contactHead.textContent = language.eng.contactHead;
     formName.placeholder = language.eng.formName;
     formText.placeholder = language.eng.formText;
